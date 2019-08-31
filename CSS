@@ -1,0 +1,10 @@
+body{
+  background: #213769;
+}
+canvas{
+  display: flex;
+  justify-content: center;
+  background: #213769;
+ 
+  
+}
